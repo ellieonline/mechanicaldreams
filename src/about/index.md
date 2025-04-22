@@ -1,6 +1,9 @@
 ---
 title: About Ellie
 description: What is an Ellie?
+eleventyNavigation:
+  key: about
+  order: 200
 ---
 
 I'm Ellie, a Girl(tm) from Ireland 👋
