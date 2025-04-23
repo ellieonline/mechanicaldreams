@@ -12,4 +12,4 @@ You can find more about her [here](https://www.pishop.us/product-category/roboti
 
 --- 
 
-I also do some writing which is in the links page\
+I also do some writing which is in the links page

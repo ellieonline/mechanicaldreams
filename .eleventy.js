@@ -6,6 +6,12 @@ module.exports = config => {
     // navigation
     config.addPlugin( require('@11ty/eleventy-navigation') );
 
+     /* --- SHORTCODES --- */
+
+    // page navigation
+    config.addShortcode('navlist', require('./src/_includes/navlist.js'));
+
+
     // 11ty defaults
     return {
   
